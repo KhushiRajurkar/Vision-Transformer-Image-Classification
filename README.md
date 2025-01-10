@@ -27,4 +27,4 @@ Faced computational resource constraints but overcame them using HuggingFace’s
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Vision-Transformer-Image-Classification.git
+   git clone https://github.com/KhushiRajurkar/Vision-Transformer-Image-Classification.git
