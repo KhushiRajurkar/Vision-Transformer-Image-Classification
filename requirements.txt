@@ -1,0 +1,5 @@
+transformers==4.x.x   # HuggingFace Transformers library
+datasets==2.x.x       # HuggingFace Datasets library
+torch==x.x.x          # PyTorch for deep learning
+numpy==1.x.x          # For numerical computations
+matplotlib==3.x.x     # For visualizations (if used)
