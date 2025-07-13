@@ -18,7 +18,7 @@ This repository contains an implementation of the Vision Transformer (ViT) model
 5. **Evaluation**: Achieved high accuracy through transfer learning and efficient training.
 
 ## Results
-- **Accuracy**: Reached 98.6% validation accuracy by epoch 3.
+- **Accuracy**: Reached 98.77% validation accuracy by epoch 5.
 - **Efficiency**: Demonstrated the use of pre-trained weights and transfer learning for computationally constrained setups.
 
 ## Challenges
@@ -28,3 +28,4 @@ Faced computational resource constraints but overcame them using HuggingFace’s
 1. Clone the repository:
    ```bash
    git clone https://github.com/KhushiRajurkar/Vision-Transformer-Image-Classification.git
+   ```
